@@ -1,0 +1,13 @@
+algoritmo "desenhaTriangulo"
+var
+  linha: inteiro
+  coluna: inteiro
+inicio
+  para linha de 1 ate 5 faca
+    para coluna de 1 ate linha
+    faca
+    escreval("*")
+  fimpara
+  escreval("")
+fimpara
+fimalgoritmo
